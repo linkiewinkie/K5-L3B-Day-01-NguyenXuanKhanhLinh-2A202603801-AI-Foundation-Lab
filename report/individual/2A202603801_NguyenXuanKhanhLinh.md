@@ -10,7 +10,7 @@
 | --- | --- |
 | [`day01_lab.ipynb`](day01_lab.ipynb) — notebook đã chạy, còn output | ☑ |
 | [`lab1_report.json`](lab1_report.json) — do ô "Báo cáo cuối" sinh ra (15/15 bài kiểm tra đạt) | ☑ |
-| [`hand_calc.jpg`](hand_calc.jpg) — ảnh tính tay có các bước | ☐ (sẽ upload sau khi chụp lại) |
+| [`hand_calc.jpg`](hand_calc.jpg) — ảnh tính tay có các bước | ☑ |
 
 ## 2. Kết quả chính
 
